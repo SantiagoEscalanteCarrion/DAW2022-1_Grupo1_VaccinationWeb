@@ -1,0 +1,204 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Vacunas_ProyectoWeb_GRUPO01.MVC
+build_property.RootNamespace = Vacunas_ProyectoWeb_GRUPO01.MVC
+build_property.ProjectDir = C:\Users\sanes\OneDrive\Escritorio\DISEÑO DE APPS WEB\PROYECTO DEL CURSO\Vacunas_ProyectoWeb_Grupo01.MVC\Vacunas_ProyectoWeb_GRUPO01.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sanes\OneDrive\Escritorio\DISEÑO DE APPS WEB\PROYECTO DEL CURSO\Vacunas_ProyectoWeb_Grupo01.MVC\Vacunas_ProyectoWeb_GRUPO01.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/AdministrativoSalud/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpdm9TYWx1ZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/AdministrativoSalud/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpdm9TYWx1ZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/AdministrativoSalud/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpdm9TYWx1ZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/AdministrativoSalud/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpdm9TYWx1ZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/AdministrativoSalud/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpdm9TYWx1ZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/CentroVacunacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJvVmFjdW5hY2lvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/CentroVacunacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJvVmFjdW5hY2lvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/CentroVacunacion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJvVmFjdW5hY2lvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/CentroVacunacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJvVmFjdW5hY2lvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/CentroVacunacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJvVmFjdW5hY2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Enfermero/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZXJvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Enfermero/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZXJvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Enfermero/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZXJvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Enfermero/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZXJvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Enfermero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtZXJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Paciente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Paciente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Paciente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Paciente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Paciente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/PersonalRegistro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxSZWdpc3Ryb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/PersonalRegistro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxSZWdpc3Ryb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/PersonalRegistro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxSZWdpc3Ryb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/PersonalRegistro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxSZWdpc3Ryb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/PersonalRegistro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxSZWdpc3Ryb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroReporteIncidente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9SZXBvcnRlSW5jaWRlbnRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroReporteIncidente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9SZXBvcnRlSW5jaWRlbnRlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroReporteIncidente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9SZXBvcnRlSW5jaWRlbnRlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroReporteIncidente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9SZXBvcnRlSW5jaWRlbnRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroReporteIncidente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9SZXBvcnRlSW5jaWRlbnRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroVacunacion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9WYWN1bmFjaW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroVacunacion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9WYWN1bmFjaW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroVacunacion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9WYWN1bmFjaW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroVacunacion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9WYWN1bmFjaW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/RegistroVacunacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9WYWN1bmFjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Vacuna/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjdW5hXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Vacuna/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjdW5hXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Vacuna/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjdW5hXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Vacuna/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjdW5hXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Vacuna/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjdW5hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanes/OneDrive/Escritorio/DISEÑO DE APPS WEB/PROYECTO DEL CURSO/Vacunas_ProyectoWeb_Grupo01.MVC/Vacunas_ProyectoWeb_GRUPO01.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dcdv50t53y

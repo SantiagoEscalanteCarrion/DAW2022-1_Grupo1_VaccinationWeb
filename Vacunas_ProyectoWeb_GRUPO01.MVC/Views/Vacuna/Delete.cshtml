@@ -1,0 +1,38 @@
+﻿@model Vacunas_ProyectoWeb_GRUPO01.MVC.Models.Vacuna
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar</h1>
+
+<div>
+    <h4>Vacuna</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Laboratorio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Laboratorio)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Procedencia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Procedencia)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Eliminar" class="btn btn-outline-danger" /> |
+        <a asp-action="Index">Volver a lista</a>
+    </form>
+</div>

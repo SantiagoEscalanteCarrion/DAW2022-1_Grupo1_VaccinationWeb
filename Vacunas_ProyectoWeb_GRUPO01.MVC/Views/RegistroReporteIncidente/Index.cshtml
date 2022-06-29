@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Vacunas_ProyectoWeb_GRUPO01.MVC.Models.RegistroReporteIncidente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<body style="background-image: linear-gradient(to bottom, turquoise, lightblue)">
+    <h1 style="font-family: 'Agency FB'; font-size: 5vw">Listado Reportes de Incidentes</h1>
+
+    <p>
+        <a asp-action="Create">Agregar Reporte Incidente</a>
+    </p>
+    <table style="text-align: center"class="table table-dark table-hover table-striped table-bordered border-light">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FechaReporte)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NivelImportancia)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AdministrativoSalud)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CentroVacunacion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Paciente)
+                </th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaReporte)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NivelImportancia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdministrativoSalud.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CentroVacunacion.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Paciente.Id)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+</body>
+
+

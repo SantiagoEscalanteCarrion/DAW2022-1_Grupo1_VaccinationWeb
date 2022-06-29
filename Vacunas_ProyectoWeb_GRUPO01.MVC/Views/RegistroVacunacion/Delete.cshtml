@@ -1,0 +1,62 @@
+﻿@model Vacunas_ProyectoWeb_GRUPO01.MVC.Models.RegistroVacunacion
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar</h1>
+
+<div>
+    <h4>Vacunación</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PacienteId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PacienteId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumeroDosis)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumeroDosis)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FechaVacunacion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FechaVacunacion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CentroVacunacion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CentroVacunacion.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Enfermero)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Enfermero.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PersonalRegistro)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PersonalRegistro.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Vacuna)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Vacuna.Id)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Eliminar" class="btn btn-outline-danger" /> |
+        <a asp-action="Index">Volver a lista</a>
+    </form>
+</div>
